@@ -24,9 +24,9 @@ export default {
 					'text':'Home page'
 				},
 				{
-					'to':'/Homeworks/',
+					'to':'/quizzes/',
 					'icon':'edit-alt',
-					'text':'HomeWorks'
+					'text':'Quizzes'
 				}
 			]
 		}

@@ -12,7 +12,7 @@ export default {
   name: 'IndexPage',
   head(){
   	return{
-  		title:'Advance Programming'
+  		title:'Digital Logic Design'
   	}
   }
 }

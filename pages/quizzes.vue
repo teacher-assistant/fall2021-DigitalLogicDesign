@@ -1,8 +1,8 @@
 <template>
 	<div class="container d-grid gap-2">
     	<div></div>
-		<MainCard title="Homeworks Status" />
-		<HomeworkStatusTable />
+		<MainCard title="Quizzes Status" />
+		<QuizzestatusTable />
 	</div>
 </template>
 
@@ -11,7 +11,7 @@ import 'boxicons'
 export default {
 	head(){
   		return{
-  			title:'Homeworks Status'
+  			title:'Quizzes Status'
   		}
   	}
 }

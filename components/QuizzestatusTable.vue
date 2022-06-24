@@ -37,7 +37,7 @@ export default {
 	},
   	mounted() {
 	    this.$nextTick(()=>{
-		  	this.$axios.$get('https://teacher-assistant.github.io/fall2021-DigitalLogicDesign/HomeWorks.json')
+		  	this.$axios.$get('https://teacher-assistant.github.io/fall2021-DigitalLogicDesign/Quizzes.json')
 	        .then(response=>this.students=response)
 	    })
   	}
