@@ -25,7 +25,7 @@ export default {
 			sections:{
 				full_name:{
 					is_active: false,
-					title:"Fall 2022",
+					title:"Fall 2021",
 					class_name: "alert-primary"
 				},
 				first_title:{
